@@ -28,7 +28,7 @@ This repository contains Python scripts for analyzing market trends in the cryst
 
 1️⃣ Clone the Repository
 git clone https://github.com/ChunjiangLiLeo/CrystalMarket.git
-cd CrystalMarket_Analysis
+cd CrystalMarket
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
