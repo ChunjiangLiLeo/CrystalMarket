@@ -27,7 +27,7 @@ This repository contains Python scripts for analyzing market trends in the cryst
 │   ├── sentiment_chart.png    # Sentiment trend graph
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/CrystalMarket_Analysis.git
+git clone https://github.com/ChunjiangLiLeo/CrystalMarket.git
 cd CrystalMarket_Analysis
 
 2️⃣ Install Dependencies
