@@ -1,4 +1,5 @@
-Contributors: Zibing Wang, Yuting Feng, Nanxi Wang, Chunjiang Li \n
+Contributors: Zibing Wang, Yuting Feng, Nanxi Wang, Chunjiang Li 
+
 📊 Crystal Market Trends Analysis
 This repository contains Python scripts for analyzing market trends in the crystal industry. It includes Google Trends data extraction, sentiment analysis, NLP keyword extraction, and data visualization to identify popular crystal-related keywords and customer preferences.
 
